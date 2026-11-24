@@ -16,7 +16,7 @@ Tulis dulu, baru kode. Dokumen ini adalah kontrak antara pemilik, backend, front
 - Daftar "belum dikerjakan" ditulis eksplisit, bukan dibiarkan tersirat.
 - Konstanta bisnis (harga, paket, nomor rekening, kontak) tidak ditulis di kode. Diatur lewat panel admin atau konfigurasi.
 - Perubahan yang mengubah cara pakai ikut memperbarui panduan pengguna.
-- Untuk project bertahap, pecah pekerjaan menjadi langkah bernomor (L1, L2, …). Tiap langkah memuat berkas yang disentuh, cara verifikasi, dan kriteria selesai. Satu langkah per sesi, statusnya kotak centang, buktinya ditempel di `VERIFICATION.md`.
+- Untuk project bertahap, pecah pekerjaan menjadi langkah bernomor (L1, L2, …). Tiap langkah memuat berkas yang disentuh, cara verifikasi, dan kriteria selesai. Satu langkah per sesi, statusnya kotak centang, buktinya ditempel di `VERIFICATION.md` (lihat skill `langkah`).
 
 ## Template `docs/prd.md`
 

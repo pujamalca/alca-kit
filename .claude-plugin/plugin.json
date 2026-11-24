@@ -1,8 +1,11 @@
 {
   "name": "alca-kit",
-  "version": "1.0.0",
-  "description": "Aturan kerja siap pakai untuk project: gaya jawab, rahasia, kerja antar sesi, git & rilis, verifikasi, PRD, design, keamanan web, animasi video, alur persetujuan.",
-  "author": { "name": "AlcaOfficial", "url": "https://alcaofficial.com" },
+  "version": "1.1.0",
+  "description": "34 aturan kerja siap pakai (bahasa Indonesia): cara kerja, PRD, design, keamanan web, Laravel, Next.js, Go, server, backup, AI lokal, video dan konten.",
+  "author": {
+    "name": "AlcaOfficial",
+    "url": "https://alcaofficial.com"
+  },
   "homepage": "https://alcaofficial.com/kit",
   "repository": "https://github.com/pujamalca/alca-kit",
   "license": "CC-BY-4.0"
