@@ -1,0 +1,11 @@
+{
+  "name": "alca",
+  "owner": { "name": "AlcaOfficial" },
+  "plugins": [
+    {
+      "name": "alca-kit",
+      "source": "./",
+      "description": "Aturan kerja siap pakai untuk project (bahasa Indonesia)."
+    }
+  ]
+}

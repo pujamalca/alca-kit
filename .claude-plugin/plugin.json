@@ -1,0 +1,9 @@
+{
+  "name": "alca-kit",
+  "version": "1.0.0",
+  "description": "Aturan kerja siap pakai untuk project: gaya jawab, rahasia, kerja antar sesi, git & rilis, verifikasi, PRD, design, keamanan web, animasi video, alur persetujuan.",
+  "author": { "name": "AlcaOfficial", "url": "https://alcaofficial.com" },
+  "homepage": "https://alcaofficial.com/kit",
+  "repository": "https://github.com/pujamalca/alca-kit",
+  "license": "CC-BY-4.0"
+}
