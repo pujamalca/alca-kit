@@ -39,6 +39,7 @@ Klaim yang tidak boleh dibuat, kompetitor yang tidak boleh disebut, topik sensit
 ## Aturan
 
 - Warna diambil dari piksel logo asli.
+- Hex di profil ini satu-satunya sumber warna merek. Token video dan token situs disalin dari sini, supaya keduanya sama.
 - Jangan mengulang gaya, kait, atau lagu dari konten terakhir usaha yang sama.
 - Konten satu klien tidak boleh menyerupai klien lain di sektor yang sama.
 - Kontak dan detail nyata usaha hanya di berkas privat.

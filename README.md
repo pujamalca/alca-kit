@@ -31,6 +31,7 @@ Baca di web: https://alcaofficial.com/kit
 | Skill | Kapan dipakai |
 |---|---|
 | [design](skills/design/SKILL.md) | Aturan desain antarmuka web agar rapi, konsisten, mudah dibaca, dan tidak terlihat seperti template buatan AI. Pakai saat membangun atau mengubah halaman, komponen, dashboard, form, atau tema warna. |
+| [animasi-web](skills/animasi-web/SKILL.md) | Aturan gerak antarmuka web (durasi, easing, keadaan, reduced-motion, GSAP) agar animasi terasa cepat dan tidak berlebihan. Pakai saat menambah transisi, hover, animasi masuk, animasi saat gulir, atau pustaka animasi di situs atau aplikasi. |
 | [keamanan-web](skills/keamanan-web/SKILL.md) | Daftar cek keamanan aplikasi web (Laravel, Next.js, Go, situs statis) dan server yang melayaninya. Pakai sebelum rilis, saat menambah form, login, API, unggahan berkas, route baru, atau saat mengubah konfigurasi web server. |
 | [gerbang-rilis](skills/gerbang-rilis/SKILL.md) | Urutan pemeriksaan (gate) sebelum push atau deploy ke produksi. Pakai saat diminta "pastikan siap produksi", "optimise", atau sebelum rilis aplikasi web. |
 | [upgrade-dependensi](skills/upgrade-dependensi/SKILL.md) | Cara menaikkan versi paket npm, Composer, atau Go dengan aman. Pakai saat audit dependensi merah, ada advisori keamanan baru, atau pemilik minta "upgrade semua". |
