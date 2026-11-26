@@ -17,6 +17,7 @@ Baca di web: https://alcaofficial.com/kit
 | [kerja-antar-sesi](skills/kerja-antar-sesi/SKILL.md) | Aturan saat beberapa sesi Claude atau agen bekerja sama di mesin atau project berbeda. Pakai saat menerima atau mengirim pesan dari sesi lain, atau saat satu pekerjaan dibagi ke beberapa sesi. |
 | [git-dan-rilis](skills/git-dan-rilis/SKILL.md) | Alur commit, push, dan rilis ke produksi. Pakai setiap kali menyentuh repo git, dan wajib sebelum push ke cabang yang ter-deploy otomatis atau sebelum deploy ke produksi. |
 | [verifikasi](skills/verifikasi/SKILL.md) | Cara membuktikan pekerjaan benar-benar selesai sebelum melapor. Pakai sebelum mengatakan "selesai", "sudah jalan", "sudah sinkron", atau sebelum rilis, dan saat menulis uji end-to-end yang menulis data. |
+| [kode-hemat](skills/kode-hemat/SKILL.md) | Cara menulis atau mengubah kode seperlunya: petakan pemakai dulu, pakai yang sudah ada, perbaiki di akar, catat jalan pintas dengan pemicunya. Pakai saat menambah fitur, memperbaiki bug, atau merapikan kode di project mana pun. |
 | [diagnosis-insiden](skills/diagnosis-insiden/SKILL.md) | Cara mendiagnosis layanan yang mati, error, atau lambat, lalu melaporkannya. Pakai saat pemilik bertanya "kenapa X mati/error/merah" atau saat situs tidak bisa diakses. |
 
 ### Memulai project
@@ -31,6 +32,7 @@ Baca di web: https://alcaofficial.com/kit
 | Skill | Kapan dipakai |
 |---|---|
 | [design](skills/design/SKILL.md) | Aturan desain antarmuka web agar rapi, konsisten, mudah dibaca, dan tidak terlihat seperti template buatan AI. Pakai saat membangun atau mengubah halaman, komponen, dashboard, form, atau tema warna. |
+| [tanda-rupa](skills/tanda-rupa/SKILL.md) | Daftar periksa rupa untuk video, poster, carousel, dan halaman web agar tidak terlihat dibuat mesin, plus cara membedah selera desain sebuah rujukan. Pakai saat memeriksa still/desain sebelum diserahkan atau saat menganalisis rujukan. |
 | [animasi-web](skills/animasi-web/SKILL.md) | Aturan gerak antarmuka web (durasi, easing, keadaan, reduced-motion, GSAP) agar animasi terasa cepat dan tidak berlebihan. Pakai saat menambah transisi, hover, animasi masuk, animasi saat gulir, atau pustaka animasi di situs atau aplikasi. |
 | [keamanan-web](skills/keamanan-web/SKILL.md) | Daftar cek keamanan aplikasi web (Laravel, Next.js, Go, situs statis) dan server yang melayaninya. Pakai sebelum rilis, saat menambah form, login, API, unggahan berkas, route baru, atau saat mengubah konfigurasi web server. |
 | [gerbang-rilis](skills/gerbang-rilis/SKILL.md) | Urutan pemeriksaan (gate) sebelum push atau deploy ke produksi. Pakai saat diminta "pastikan siap produksi", "optimise", atau sebelum rilis aplikasi web. |
@@ -60,10 +62,14 @@ Baca di web: https://alcaofficial.com/kit
 | [cerita-diorama](skills/cerita-diorama/SKILL.md) | Membuat video cerita bertokoh di dunia 3D/diorama dari kode (Three.js atau sejenisnya): shot, kamera, gerak, bunyi, dan kerumunan. Pakai saat video punya tokoh, latar, dan alur cerita, bukan sekadar motion graphic. |
 | [alur-persetujuan](skills/alur-persetujuan/SKILL.md) | Alur kerja kreatif bertahap dengan titik persetujuan (naskah, storyboard, draf, final). Pakai untuk pekerjaan kreatif apa pun untuk klien atau pemilik, seperti video, desain, copywriting, dan konten media sosial. |
 | [kait-3-detik](skills/kait-3-detik/SKILL.md) | Menulis kait (hook) pembuka dan penutup konten video pendek dan media sosial agar ditonton sampai habis. Pakai saat menulis naskah Reels, TikTok, Shorts, atau caption. |
+| [riset-tren](skills/riset-tren/SKILL.md) | Mencari kalimat yang benar-benar diketik orang Indonesia tentang sebuah topik (saran pencarian Google dan YouTube) sebagai bahan kait, judul video, judul blog, dan caption. Pakai sebelum menulis kait atau judul. |
+| [tulisan-bau-ai](skills/tulisan-bau-ai/SKILL.md) | Memeriksa dan menulis ulang caption, naskah voice-over, artikel, atau teks layar berbahasa Indonesia yang terdengar ditulis mesin. Pakai sebelum mengunggah caption, merekam naskah, atau menerbitkan tulisan. |
 | [suara-vo](skills/suara-vo/SKILL.md) | Voice-over, TTS, musik, dan campuran audio untuk video. Pakai saat menambah narasi, suara buatan, efek suara, atau musik latar ke video. |
 | [letak-tulisan](skills/letak-tulisan/SKILL.md) | Aturan letak, ukuran, dan keterbacaan tulisan di layar video 9:16 dan 16:9, termasuk subtitle dan safe zone platform. Pakai saat menaruh teks, subtitle, atau judul di video. |
+| [diagram-penjelas](skills/diagram-penjelas/SKILL.md) | Membuat diagram penjelas (langkah, alur, corong, siklus, kuadran, garis waktu) untuk video edukasi, slide carousel, atau halaman web. Pakai saat konten menjelaskan proses, urutan, pilihan, atau tahap. |
 | [publikasi-sosmed](skills/publikasi-sosmed/SKILL.md) | Mengunggah video dan konten ke YouTube, TikTok, Instagram, Threads, atau WhatsApp beserta sampul, caption, dan tagar. Pakai saat konten final siap diunggah atau dijadwalkan. |
 | [profil-merek](skills/profil-merek/SKILL.md) | Template profil merek per usaha (gaya bahasa, warna, musik, larangan klaim, riwayat konten) agar konten konsisten dan tidak berulang. Pakai saat membuat konten pertama untuk sebuah usaha, atau sebelum setiap konten baru untuk usaha itu. |
+| [fakta-situs](skills/fakta-situs/SKILL.md) | Mengumpulkan fakta usaha klien dari situsnya sebagai bukti berkutipan, sebelum menulis naskah, brief, atau profil merek. Pakai saat brief memuat tautan situs klien. |
 | [klaim-kesehatan](skills/klaim-kesehatan/SKILL.md) | Batas klaim untuk konten dan situs layanan kesehatan (klinik, praktik, apotek, rumah sakit). Pakai saat menulis naskah, caption, halaman web, atau iklan untuk layanan kesehatan. |
 
 ### Alat dan otomasi

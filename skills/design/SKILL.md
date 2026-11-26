@@ -85,3 +85,4 @@ Pola yang diizinkan: garis jalur, label mono kecil.
 2. Tidak ada overflow horizontal dan tidak ada galat console.
 3. Kontras dihitung untuk pasangan warna baru.
 4. Bila ada, jalankan Lighthouse: Accessibility, Best Practices, SEO 100.
+5. Periksa daftar tanda rupa generik (skill `tanda-rupa`).

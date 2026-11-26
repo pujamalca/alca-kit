@@ -23,6 +23,7 @@ Kalimat pertama diucapkan dan sekaligus ditulis besar di layar.
 
 ## Proses
 
+- Ambil kata-kata penonton dulu dengan skill `riset-tren`.
 - Tulis minimal tiga calon kait, nilai (jelas, spesifik, relevan dengan penonton sasaran), pilih satu.
 - Sesuaikan dengan tahap corong:
   - Atas (orang belum kenal): masalah umum, hiburan, edukasi.
